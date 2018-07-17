@@ -22,3 +22,6 @@ spring:
         reset-enable: true
         login-username: druid
         login-password: druid
+
+  thymeleaf:
+    cache: false
